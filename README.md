@@ -156,11 +156,14 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
  
  # Commands
 >[/]setstart
->
+-----------
 >> ست كردن متن استارت
->>>/setdone
->>>
->>>ست كردن متن پاسخگويي
+>/setdone
+-----------
+>>ست كردن متن پاسخگويي
 >[/]ban
->
+-----------
 >> بن كردن كاربر
+
+
+<b>create by [MutePuker](https://telegram.me/MutePuker)
