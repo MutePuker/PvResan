@@ -109,4 +109,73 @@ PHP 5.4
 
 در صفحه بعد شما بايد 2 نام براي خودتون انتخاب بكنيد 
 
-!(http://s7.picofile.com/file/8258714184/bandicam_2016_07_04_21_39_36_258.jpg)
+
+و در قسمت
+Source Code
+ادرس گيت خود را وارد كنيد !
+
+توجه داشتنه باشيد حتما بايد در اخر ان 
+.git 
+بگذاريد
+
+يعني اگر ادرس شما 
+https://github.com/MutePuker/PvResan
+بود بايد شما به اين صورت واد كنيد
+https://github.com/MutePuker/PvResan.git
+
+كار ما تمام شد به چيزي كار نداريم و
+Create Application 
+را ميزنيم!
+
+و حالا كافيه وبهوك رباتتون رو با اين آدرس ست كنيد
+مثال
+https://Pvresan-Pvresan.rhcloud.com/Luncher.php
+و به جاي 
+PVresan
+نامي كه انتخاب كرديد بزنيد
+
+در اخر شما يك صفحه جديد باز كنيد و ادرس 
+
+https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhcloud.com/Luncher.php
+
+را وارد كنيد
+
+ - توجه داشته باشيد در قسمت
+ - Pvresan-Pvrsan
+ -را به نامي كه انتخاب كرديد تغيير دهيد!
+ -------------------------------------------
+ در قسمت 
+ <TOKAN>
+ توكن ربات خود را قرار دهيد
+ توجه داشته باشيد <> هم پاك كنيد !
+ اگر تمام مراحل را درست رفته باشيد بعد از پشت سر گذاشتن مرحله اخر و بارگذاري اخر دستوري به اين صورت 
+ {"ok":true,"result":true,"description":"Webhook was set"}
+ بالا مياد كه نشان ميده ربات انلاين شده و ميتونيد استفاده كنيد !
+ --------------------------------------------
+ <b> دستورات ربات </b>
+ 
+ <table>
+  <thead>
+    <tr>
+      <td><strong>Name</strong></td>
+      <td><strong>source</strong></td>
+      <td><strong>Usage</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/setstart</td>
+      <td>PvResanfor telegram</td>
+      <td>ست كردن پيام استارت و خوش امد گويي</td>
+    </tr>
+    <tr>
+      <td>/setdone</td>
+      <td>PvResan</td>
+      <td>ست كردن پيام بعد ارسال پيام كاربر<br></td>
+    </tr>
+    <tr>
+      <td>/ban</td>
+      <td>PvResan</td>
+      <td>بن كردن كاربر</td>
+    </tr>
+    <tr>
