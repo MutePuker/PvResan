@@ -166,4 +166,4 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
 >> بن كردن كاربر
 
 
-<b>create by (MutePuker)[https://telegram.me/MutePuker]
+<b>create by</b> (MutePuker)[https://telegram.me/MutePuker]
