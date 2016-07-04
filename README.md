@@ -165,4 +165,4 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
 -----------
 >> بن كردن كاربر
 
-[CoNeCt Me](https://telegram.me/MutePuker)
+(CoNeCt Me)[https://telegram.me/MutePuker]
