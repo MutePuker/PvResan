@@ -1,19 +1,19 @@
-# PvResan
+# install PvResan
 
 
 [join to @OpenID](https://telegram.me/openID) 
 
 <i>اين آموزش پولي ميباشد اما ما بصورت رايگان براي شما قرار داده ايم , براي حمايت به ما ستاره بديد و در كانال ما جوين بشيد</i>
 
-<b> اموزش نصب ربان پيام رسان شخصي </b>
+#<b> اموزش نصب ربان پيام رسان شخصي </b>
 
 در اين تشكر ويژه از دوست عزيزم @B_O_T_T_E_A_M
-
+```sh
 ابتدا در سايت 
 
-```sh
+
 github.com
-```
+
 ثبت نام كنيد !
 
 
@@ -22,28 +22,48 @@ github.com
 
 سپس گزينه + را انتخاب كرده و 
 
-```sh
-new repostitory 
-```
+
+new repository 
+
 
 را انتخاب كرده , هم اكنون وارد صفحه جديد شديد
 
 در قسمت 
-```sh
-Repository name
-```
+
+repository name
+
 
 يك نام براي پروژه خود انتخاب كنيد !
 
 و سپس دستور
-```sh
-create repostitry
-``` 
+
+create repository
+
 را انتخاب كنيد
 
 سپس صفحه جديدي باز ميشود به ان كاري ندارم و گزينه
-```sh
+
+
+
 Import
-```
+
+
 را انتخاب ميكنيم
 
+در صفحه جديد در جاي خالي گزينه 
+
+
+
+your old repository's clone URL
+
+
+لينك گيتهاب ما يعني 
+
+
+https://github.com/MutePuker/PvResan.git
+
+را جاي گذاري كرده و گزينه
+
+bgin imkport 
+
+را انتخاب ميكنيم !
