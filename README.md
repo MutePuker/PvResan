@@ -154,30 +154,13 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
  --------------------------------------------
  <b> دستورات ربات </b>
  
- <table>
-  <thead>
-    <tr>
-      <td><strong>Name</strong></td>
-      <td><strong>source</strong></td>
-      <td><strong>Usage</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>/setstart</td>
-      <td>PvResanfor telegram</td>
-      <td>ست كردن پيام استارت و خوش امد گويي</td>
-    </tr>
-    <tr>
-      <td>/setdone</td>
-      <td>PvResan</td>
-      <td>ست كردن پيام بعد ارسال پيام كاربر<br></td>
-    </tr>
-    <tr>
-      <td>/ban</td>
-      <td>PvResan</td>
-      <td>بن كردن كاربر</td>
-    </tr>
-    <tr>
-  </tbody>
-</table>
+ # Commands
+>[/]setstart
+>
+>> ست كردن متن استارت
+>>>/setdone
+>>>
+>>>ست كردن متن پاسخگويي
+>[/]ban
+>
+>> بن كردن كاربر
