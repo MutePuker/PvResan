@@ -161,7 +161,6 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
  
  # Commands
 >[/]setstart
-
 >> ست كردن متن استارت
 ---------------------------
 >/setdone
@@ -170,4 +169,5 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
 >[/]ban
 >> بن كردن كاربر
 --------------------------
-
+>/unban
+>> ان بن كردن كاربر
