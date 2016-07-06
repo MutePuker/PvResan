@@ -157,7 +157,7 @@ https://api.telegram.org/bot<token>/setwebhook?url=https://Pvresan-pvresan.rhclo
  {"ok":true,"result":true,"description":"Webhook was set"}
  بالا مياد كه نشان ميده ربات انلاين شده و ميتونيد استفاده كنيد !
  --------------------------------------------
- <b> دستورات ربات </b>
+ <b>دستورات ربات</b>
  
  # Commands
 >[/]setstart
